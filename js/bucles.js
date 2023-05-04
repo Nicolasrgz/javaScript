@@ -210,3 +210,4 @@
 //   }
 //   pyramid(5);
   
+//ejercicio 16
