@@ -86,14 +86,14 @@
 
 // ejercicio 8 (incompleto)
 
-// const familia = [ {edad: 18, peso: 50,nombre: "nicolas", club: "boca"}
-//             , {edad: 18, peso: 50,nombre: "juan", club: "boca"}
-//             , {edad: 18, peso: 50,nombre: "maria", club: "boca"}
-//             , {edad: 18, peso: 50,nombre: "lara", club: "boca"}
-//             , {edad: 18, peso: 50,nombre: "lara", club: "boca"}]
+// let familia = [ {edad: 18, peso: 50,nombre: "nicolas", club: "boca"}
+// , {edad: 70, peso: 60,nombre: "juan", club: "river"}
+// , {edad: 6, peso: 30,nombre: "maria", club: "racing"}
+// , {edad: 17, peso: 40,nombre: "lara", club: "dyF"}
+// , {edad: 60, peso: 80,nombre: "jorge", club: "patronato"}]
 
-// for (let i = 0; i <= 10 ; i++){
-//     console.log(i)
+// for (let i = 0; i <= 4 ; i++){
+//     console.log(`hola mi nombre es ${familia[i].nombre}, tengo ${familia[i].edad} años, y soy hincha de ${familia[i].club}`)
 // }
 
 //ejercicio 9
